@@ -1,5 +1,9 @@
 body{
-	background:url(1533326959_low-poly-background-generator-min.png)
+	background:url(1533326959_low-poly-background-generator-min.png);
+	
+}
+* {
+    font-family: "Comic Sans MS";
 }
 h1{
 color:orange;
@@ -80,4 +84,8 @@ video{
     height: 500px;
 	align-items: center;
     justify-content: center;
+	}
+    p{
+		text-align:center;
+		height: 100px;
 	}
